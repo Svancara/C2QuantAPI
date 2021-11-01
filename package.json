@@ -1,0 +1,20 @@
+{
+  "name": "C2ScoreNotebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@servicestack/client": "^1.0.55",
+    "dstools": "^0.2.8",
+    "mysql": "^2.18.1",
+    "technicalindicators": "^3.1.0",
+    "trading-signals": "^2.3.0",
+    "tslab-plotly": "^2.0.4"
+  }
+}

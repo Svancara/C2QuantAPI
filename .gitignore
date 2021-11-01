@@ -1,0 +1,8 @@
+.local
+.cache
+.config
+.ipynb_checkpoints
+.ipython
+.jupyter
+.npm
+node_modules
